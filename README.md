@@ -14,7 +14,7 @@ Run this commands on your host machine (NOT router):
 nano mac_randomiser.sh
 ```
 
-Paste code from above (or use v1 if you want) and save file.
+Paste code from  **mac_randomiser.sh** file
 
 ```
 scp -O -r mac_randomiser.sh root@192.168.8.1:/etc/init.d/
