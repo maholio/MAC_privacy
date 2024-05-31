@@ -38,7 +38,6 @@ chmod +x /etc/init.d/mac_randomiser.sh
 
 ```
 /etc/init.d/mac_randomiser.sh enable
-
 ```
 
 ### 🇺🇦 Author stands with Ukraine 🇺🇦
